@@ -1,0 +1,6 @@
+MongoDB
+
+Node CRUD App
+
+username: admin
+password: mr8YJCoGWeokENB1
